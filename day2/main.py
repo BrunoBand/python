@@ -1,5 +1,2 @@
-num_char = str(len(input("name?")))
 
-print("dasd" + num_char)
-
-print(type(num_char))
+print(round(8/3, 4))
